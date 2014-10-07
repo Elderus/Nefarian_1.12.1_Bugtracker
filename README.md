@@ -8,12 +8,17 @@
 <li>Nur ein Fehler pro Fehlermeldung</li>
 
 <font size="5"><b>Fehler melden</b></font>
+
 <font size="4"><b>Format</b></font>
+
 <font size="3"><b>-Titel</b></font>
+
 Wähle einen kurzen Titel, der das Problem in wenigen Worten zusammenfasst
 
 <font size="3"><b>-Format</b></font>
+
 Eine Fehlemeldung sollte das folgende Format haben:
+
 <b>Welches Verhalten wird beobachtet?</b>
 
 <b>Wie sollte es sich verhalten?</b>
