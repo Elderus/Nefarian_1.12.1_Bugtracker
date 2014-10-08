@@ -2,18 +2,16 @@
 <br>
 <ul>
 <font size="5"><b>Vor dem Melden</b></font>
-<li>Leere oder lösche den WDB Ordner bevor du das Spiel startest</li>
+<li>Leere oder lÃ¶sche den WDB Ordner bevor du das Spiel startest</li>
 <li>Starte das Spiel ohne Addons</li>
-<li>Einige (Sammel)Quests können durch das Beenden und erneute Annehmen doch abgeschlossen werden</li>
+<li>Einige (Sammel)Quests kÃ¶nnen durch das Beenden und erneute Annehmen doch abgeschlossen werden</li>
 <li>Schaue im Bugtracker nach, ob der Fehler nicht bereits gemeldet wurde</li>
 <li>Nur ein Fehler pro Fehlermeldung</li>
 </ul>
 <br>
-<br>
-<br>
 <font size="5"><b>Fehler melden</b></font><br>
 <font size="3"><b>-Titel</b></font><br>
-Wähle einen kurzen Titel, der das Problem in wenigen Worten zusammenfasst<br>
+WÃ¤hle einen kurzen Titel, der das Problem in wenigen Worten zusammenfasst<br>
 <br>
 <font size="3"><b>-Format</b></font><br>
 Eine Fehlemeldung sollte das folgende Format haben:<br>
@@ -23,13 +21,15 @@ Eine Fehlemeldung sollte das folgende Format haben:<br>
 <br>
 <b>Schritte zur Reproduzierung</b><br>
 <br>
-<b>Zusätzliche Informationen (Screenshots, Videos, etc.)</b><br>
+<b>ZusÃ¤tzliche Informationen (Screenshots, Videos, etc.)</b><br>
 <br>
 <br>
-<font size="5"><b>Zusätzliches</b></font><ul>
-<li>Benutzt die Labels, da sie für mehr Ordnung sorgen</li>
+<font size="5"><b>ZusÃ¤tzliches</b></font><ul>
+<li>Benutzt die Labels, da sie fÃ¼r mehr Ordnung sorgen</li>
 <li>Wir akzeptieren nur Quellen, die sich nachweislich auf classic wow beziehen</li>
-<li>Meldungen, die das geforderte Format nicht einhalten, können kommentarlos geschlossen werden</li>
+<li>Meldungen, die das geforderte Format nicht einhalten, kÃ¶nnen kommentarlos geschlossen werden</li>
 <li>Sollte ein Bug zu schwerwiegende Folgen haben, dann meldet sie bitte bei einem Entwickler im Forum per PM!</li>
 </ul><br>
-Vielen Dank für deine Meldung!
+Vielen Dank fÃ¼r deine Meldung!
+
+<a href="https://github.com/ClassicWoW/Nefarian_1.12.1_Bugtracker/issues">->Zum Bugtracker<-</a>
