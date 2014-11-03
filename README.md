@@ -7,6 +7,7 @@
 <li>Einige (Sammel)Quests können durch das Beenden und erneute Annehmen doch abgeschlossen werden</li>
 <li>Schaue im Bugtracker nach, ob der Fehler nicht bereits gemeldet wurde</li>
 <li>Nur ein Fehler pro Fehlermeldung</li>
+<li>Sucht NPCs, Quests, Objekte, usw. in der Datenbank raus und verlinkt sie</li>
 </ul>
 <br>
 <font size="5"><b>Fehler melden</b></font><br>
