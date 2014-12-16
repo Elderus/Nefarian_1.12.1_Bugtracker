@@ -27,7 +27,6 @@ Eine Fehlemeldung sollte das folgende Format haben:<br>
 <b>Links aus unserer Datenbank (<a href="http://datenbank.welli-it.de/" target="_blank">hier gehts zur Datenbank</a>)</b><br>
 <br>
 <font size="5"><b>Zusätzliches</b></font><ul>
-<li><a href="http://datenbank.welli-it.de">->Zur Datenbank<-</a></li>
 <li>Wir akzeptieren nur Quellen, die sich nachweislich auf classic wow beziehen</li>
 <li>Meldungen, die das geforderte Format nicht einhalten, können kommentarlos geschlossen werden</li>
 <li>Sollte ein Bug zu schwerwiegende Folgen haben, dann meldet sie bitte bei einem Entwickler im Forum per PM!</li>
