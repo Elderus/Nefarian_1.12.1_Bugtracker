@@ -24,6 +24,7 @@ Eine Fehlemeldung sollte das folgende Format haben:<br>
 <br>
 <b>Zusätzliche Informationen (Screenshots, Videos, etc.)</b><br>
 <br>
+<b>Links aus unserer Datenbank (<a href="http://datenbank.welli-it.de/" target="_blank">hier gehts zur Datenbank/a>)</b><br>
 <br>
 <font size="5"><b>Zusätzliches</b></font><ul>
 <li><a href="http://datenbank.welli-it.de">->Zur Datenbank<-</a></li>
