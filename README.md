@@ -24,7 +24,7 @@ Eine Fehlemeldung sollte das folgende Format haben:<br>
 <br>
 <b>Zusätzliche Informationen (Screenshots, Videos, etc.)</b><br>
 <br>
-<b>Alle Kreaturen, Items, Objekte, Quests etc. müssen aus unserer <a href="http://datenbank.classic-wow.org/" target="_blank">Datenbank</a> verlinkt sein.</b><br>
+<b>Alle Kreaturen, Items, Objekte, Quests, Zauber etc. müssen aus unserer <a href="http://datenbank.classic-wow.org/" target="_blank">Datenbank</a> verlinkt sein.</b><br>
 <br>
 <font size="5"><b>Zusätzliches</b></font><ul>
 <li>Wir akzeptieren nur Quellen, die sich nachweislich auf Classic-WoW beziehen</li>
